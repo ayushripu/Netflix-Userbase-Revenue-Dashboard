@@ -1,6 +1,5 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow.svg)](https://powerbi.microsoft.com/)
 [![Netflix](https://img.shields.io/badge/Netflix-Userbase-red.svg)](https://www.netflix.com)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Made with Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-orange.svg)](https://powerbi.microsoft.com/)
 [![AI Powered](https://img.shields.io/badge/AI-Powered%20Insights-purple.svg)](https://powerbi.microsoft.com/)
