@@ -4,6 +4,18 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Made with Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-orange.svg)](https://powerbi.microsoft.com/)
 
+---
+
+## 📸 Dashboard Preview
+
+<div align="center">
+  <img src="Dashboard.png" alt="Netflix Userbase Dashboard" width="90%" style="border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.15);">
+  <br>
+  <sub>Interactive dashboard built with Power BI showing key Netflix user metrics</sub>
+</div>
+
+---
+
 # 🎬 Netflix Userbase Revenue Dashboard
 
 > **An interactive Power BI dashboard analyzing Netflix user subscriptions, revenue trends, and global user distribution.**
@@ -21,16 +33,6 @@ This project provides a comprehensive analysis of Netflix's userbase using Power
 | 💳 **Subscriptions** | Basic, Standard, Premium plan analysis |
 | 📱 **Devices** | Smartphone, Smart TV, Laptop, Tablet usage |
 | 👥 **Demographics** | User distribution by age group |
-
----
-
-## 📸 Dashboard Preview
-
-<div align="center">
-  <img src="Dashboard.png" alt="Netflix Userbase Dashboard" width="90%" style="border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.15);">
-  <br>
-  <sub>Interactive dashboard built with Power BI showing key Netflix user metrics</sub>
-</div>
 
 ---
 
