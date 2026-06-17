@@ -27,12 +27,14 @@ This project provides a comprehensive analysis of Netflix's userbase using Power
 ## 📸 Dashboard Preview
 
 <div align="center">
-  <img src="images/Dashboard.png" alt="Netflix Userbase Dashboard" width="85%" style="border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.15);">
+  <img src="Dashboard.png" alt="Netflix Userbase Dashboard" width="90%" style="border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.15);">
   <br>
   <sub>Interactive dashboard built with Power BI showing key Netflix user metrics</sub>
 </div>
 
-### 🎯 Key Visualizations Included
+---
+
+## 🎯 Key Visualizations Included
 
 | Visualization | Insights |
 |---------------|----------|
@@ -43,7 +45,9 @@ This project provides a comprehensive analysis of Netflix's userbase using Power
 | 📱 **Device Chart** | Device Usage Patterns |
 | 🎚️ **Filters** | Age Group & Device Type |
 
-### 📥 How to Interact
+---
+
+## 📥 How to Interact with the Dashboard
 
 - Click on **Subscription Type** to filter all visuals
 - Use **Age Group slider** to see user demographics
@@ -123,5 +127,3 @@ This project provides a comprehensive analysis of Netflix's userbase using Power
 | Year | Revenue year |
 
 ---
-
-## 📁 Project Structure
