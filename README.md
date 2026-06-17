@@ -3,6 +3,34 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
+
+
+## 📸 Dashboard Preview
+
+<div align="center">
+  <img src="images/dashboard_screenshot.png" alt="Netflix Userbase Dashboard" width="85%" style="border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.15);">
+  <br>
+  <sub>Interactive dashboard built with Power BI showing key Netflix user metrics</sub>
+</div>
+
+### 🎯 Key Visualizations Included
+
+| Visualization | Insights |
+|---------------|----------|
+| 📊 **Donut Chart** | Subscription Type Distribution |
+| 📈 **Bar Chart** | Quarterly Revenue Trends |
+| 🌍 **Map** | User Distribution by Country |
+| 🔢 **KPI Cards** | Total Users & Monthly Revenue |
+| 📱 **Device Chart** | Device Usage Patterns |
+| 🎚️ **Filters** | Age Group & Device Type |
+
+### 📥 How to Interact
+
+- Click on **Subscription Type** to filter all visuals
+- Use **Age Group slider** to see user demographics
+- Select **Device Type** to analyze device-specific trends
+- Hover over **charts** for detailed tooltips
+
 # 🎬 Netflix Userbase Revenue Dashboard
 
 > **An interactive Power BI dashboard analyzing Netflix user subscriptions, revenue trends, and global user distribution.**
