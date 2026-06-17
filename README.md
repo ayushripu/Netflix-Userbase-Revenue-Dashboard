@@ -6,6 +6,12 @@
 
 ---
 
+# 🎬 Netflix Userbase Revenue Dashboard
+
+> **An interactive Power BI dashboard analyzing Netflix user subscriptions, revenue trends, and global user distribution.**
+
+---
+
 ## 📸 Dashboard Preview
 
 <div align="center">
@@ -13,12 +19,6 @@
   <br>
   <sub>Interactive dashboard built with Power BI showing key Netflix user metrics</sub>
 </div>
-
----
-
-# 🎬 Netflix Userbase Revenue Dashboard
-
-> **An interactive Power BI dashboard analyzing Netflix user subscriptions, revenue trends, and global user distribution.**
 
 ---
 
