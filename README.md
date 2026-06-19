@@ -11,7 +11,7 @@
 ---
 
 ## 📸 Dashboard Preview
-
+   
 <div align="center">
   <img src="Dashboard.png" alt="Netflix Userbase Dashboard" width="90%" style="border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.15);">
   <br>
