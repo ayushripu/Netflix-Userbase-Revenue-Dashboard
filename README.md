@@ -3,7 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Made with Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-orange.svg)](https://powerbi.microsoft.com/)
 [![AI Powered](https://img.shields.io/badge/AI-Powered%20Insights-purple.svg)](https://powerbi.microsoft.com/)
-
+ 
 # 🎬 Netflix Userbase Revenue Dashboard
 
 > **An AI-powered interactive Power BI dashboard analyzing Netflix user subscriptions, revenue trends, and global user distribution using intelligent analytics.**
